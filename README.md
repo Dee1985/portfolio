@@ -1,6 +1,6 @@
 # portfolio
 
-My Portfolio 
+My Portfolio :  https://dee1985.github.io/portfolio/
 
 It's been a challenging (but exciting start to a new chapter in my life). This porfolio is my first project and it won't be my last. 
 
